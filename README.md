@@ -1,5 +1,8 @@
 # weatherApp
 
+
+![image](https://github.com/user-attachments/assets/b9148aa1-8b21-4082-a17e-9ca5a8525207)
+
 ## How to Build and Run the Project
 
 ### Prerequisites
