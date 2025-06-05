@@ -1,8 +1,8 @@
 # weatherApp
 
-## 🛠️ How to Build and Run the Project
+## How to Build and Run the Project
 
-### ✅ Prerequisites
+### Prerequisites
 - Java 17 or higher
 - Maven 3.9+
 - Internet connection (required to fetch API data)
